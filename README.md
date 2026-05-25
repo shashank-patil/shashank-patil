@@ -1,6 +1,6 @@
 ### Hi, I'm Shashank Patil
 
-Software Engineer at [Porter](https://porter.in) — building logistics technology that moves goods across India.
+Software Engineer Intern at [Porter](https://porter.in) — building logistics technology that moves goods across India.
 
 ---
 
